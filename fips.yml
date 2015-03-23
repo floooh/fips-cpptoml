@@ -1,0 +1,7 @@
+#
+# fips-cpptoml
+#
+---
+exports:
+    header-dirs: [ cpptoml/include ]
+
